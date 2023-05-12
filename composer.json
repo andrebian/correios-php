@@ -1,5 +1,5 @@
 {
-    "name": "flyingluscas/correios-php",
+    "name": "andrebian/correios-php",
     "type": "library",
     "description": "Uma maneira fácil de interagir com as principais funcionalidades dos Correios.",
     "keywords": [
@@ -19,6 +19,12 @@
             "email": "lucas.pires.mattos@gmail.com",
             "homepage": "https://github.com/flyingluscas",
             "role": "Developer"
+        },
+        {
+            "name": "Andre Cardoso",
+            "email": "andrecardosodev@gmail.com",
+            "homepage": "https://andrebian.com",
+            "role": "Contributor"
         }
     ],
     "require": {
